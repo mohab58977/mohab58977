@@ -1,7 +1,6 @@
-- 👋 Hi, I’m mohab hasan
-- 👀 I’m interested in backend web development and devops
-- 🌱 I currently work as devops engineer
-- 💞️ I’m looking to collaborate on anything related to devops
+
+Hi all,
+My name is Mohab, I'm a versatile, enthusiastic, and hard-working Devops Enginner, who is and always will be a disciple to discipline, commited to sailing thorough the wide wide universe of science, chasing ideas, embracing the beauty of the unknown. 
 - 📫 How to reach me ... mohab5897@gmail.com
 -
 
