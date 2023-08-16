@@ -1,6 +1,10 @@
 
 Hi all,
-My name is Mohab, I'm a versatile, enthusiastic, and hard-working Devops Enginner, who is and always will be a disciple to discipline, commited to sailing thorough the wide wide universe of science, chasing ideas, embracing the beauty of the unknown. 
+I am delighted to introduce myself – I go by the name of Mohab. I proudly wear the hat of a DevOps Engineer, embodying a unique blend of versatility, enthusiasm, and unwavering diligence. In my professional journey, I have embraced the concept of discipline as a guiding principle, a compass that steers me through the boundless realms of science.
+
+My quest involves chasing the elusive threads of ideas, immersing myself in the intricate beauty of the unknown. This intrinsic curiosity fuels both my personal and professional growth, propelling me to push the boundaries of innovation. As a DevOps Engineer, I thrive in the dynamic landscapes of ever-evolving technology. I am relentless in my pursuit of innovative solutions to intricate challenges, constantly refining existing practices to achieve results that leave a lasting imprint.
+
+
 - 📫 How to reach me ... mohab5897@gmail.com
 
 <!---
